@@ -1,4 +1,4 @@
-### Hi there, Computer Science student currently learning c++ and java. experience with html and css and a tiny bit of javascript but plan to learn much more JS when I am finished with my education. I love all things programming and coding related and enjoy how its like solving a new puzzle with each now program or assignment that is due. 👋
+### Hi there, Computer Science student currently learning c++ and java. experience with html and css and a tiny bit of javascript but plan to learn much more JS when I am finished with my education. I love all things programming and coding related and enjoy how its like solving a puzzle with each new program or assignment that is due. 👋
 
 <!--
 **RyanZurrin/RyanZurrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
