@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=RyanZurrin)
 ### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/RyanZurrin/PhysicsFormulaClass_lessDependecnies)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/RyanZurrin)
