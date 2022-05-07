@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 1. GitHub Stats
+## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=RyanZurrin&show_icons=true)
-## 2. Most Used Languages
+## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanZurrin&theme=blue-green)
-## 3. Contributors Badge
+## Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=RyanZurrin/PhysicsFormulaClass_lessDependecnies)
-## 4. Random Joke Generator
+## Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-## 5. Profile View Counter
+## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=RyanZurrin)
-### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/RyanZurrin)
