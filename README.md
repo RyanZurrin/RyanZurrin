@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanZurrin&theme=blue-green)
 ## 3. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=mpsych/mpsych.org)
+![Your Repository's Stats](https://contrib.rocks/image?repo=RyanZurrin/PhysicsFormulaClass_lessDependecnies)
 ## 4. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=RyanZurrin)
 ### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/RyanZurrin)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/RyanZurrin/PhysicsFormulaClass_lessDependecnies)
