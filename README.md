@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 ## Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
+## Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanZurrin&theme=blue-green)
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=RyanZurrin)
 ## Contributors Badge
@@ -42,8 +43,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanZurrin&theme=blue-green)
+
 
 
 
