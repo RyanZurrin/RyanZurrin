@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=RyanZurrin&show_icons=true)
 ## Most Used Languages
@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=RyanZurrin)
+
+-->
