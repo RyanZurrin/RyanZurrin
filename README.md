@@ -1,6 +1,6 @@
 ### Hello, 👋 I'm Ryan Zurrin, 
 
-A driven Computer Science student set to graduate soon from the University of Massachusetts, Boston with a B.S. in Computer Science. I have honed my skills in various programming languages including Python, C++, Java, and C, with an emphasis on crafting effective, user-friendly solutions. I possess an instinctive knack for problem-solving, and an enduring passion for programming, algorithms, and API development.
+A driven Computer Science (CS) major from the University of Massachusetts, Boston with my B.S., as well I have my A.S. in Computer Information Systems(CIS)from Berkshire Community College. Over the years I have honed my skills in various programming languages including Python, C++, Java, and C, with an emphasis on crafting effective, user-friendly software solutions. I possess an instinctive knack for problem-solving, and an enduring passion for programming, algorithms, and API development.
 
 💡 As an Undergraduate Machine Psychology Fellow at UMass Boston, I delved into the world of machine learning, focusing on research that aids in breast cancer detection. My role at the Psychiatry Neuroimaging Laboratory (PNL) at Brigham and Women's Hospital has further elevated my expertise in the industry. Here, I am actively involved in building neuroimage preprocessing, processing, and harmonization pipelines. I routinely work with advanced tools and technologies, such as AWS and Docker, gaining real-world insights into data management and cloud computing.
 
